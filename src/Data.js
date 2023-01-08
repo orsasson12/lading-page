@@ -41,7 +41,7 @@ export const aboutData = {
     image: AboutImg,
     title: `Find out A Little More About Us`,
     subtitle: `
-    We are a company dedicated to the distrbution of products by delivery to your home or to the place where your are,
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
     `
 }
 
@@ -49,33 +49,33 @@ export const aboutData = {
 
 export const featruesData = {
     title: 'Some Services We Offer',
-    subtitle: 'With our app you can view the route of your order',
+    subtitle: 'It is a long established fact that a reader will be',
     list: [
         {
             image: Feature1Img,
-            title: 'Payment Done',
-            description: 'Pay with a Visa or PayPayl Card withoud much ad',
+            title: 'Aldus PageMake',
+            description: 'There are many variations of passages',
             linkText: 'Learn more',
             delay: '400'
         },
         {
             image: Feature2Img,
-            title: 'Find Your Product',
-            description: 'We offer sale on products in interent',
+            title: 'Find Malorum',
+            description: 'There are many variations of passages',
             linkText: 'Learn more',
             delay: '1000'
         },
         {
             image: Feature3Img,
-            title: 'Payment Done',
-            description: 'Pay with a Visa or PayPayl Card withoud much ad',
+            title: 'Aldus PageMake',
+            description: 'There are many variations of passages',
             linkText: 'Learn more',
             delay: '1000'
         },
         {
             image: Feature4Img,
-            title: 'Payment Done',
-            description: 'Pay with a Visa or PayPayl Card withoud much ad',
+            title: 'Aldus PageMake',
+            description: 'There are many variations of passages',
             linkText: 'Learn more',
             delay: '1300'
         },
@@ -104,7 +104,7 @@ export const galleryData = [
         delay: '500'
     },
     {
-        title: ' fourt work',
+        title: ' fourth work',
         image: Feature3Img,
         message: 'the best work in the world4',
         delay: '600'
@@ -114,28 +114,27 @@ export const galleryData = [
 
 
 export const footerData = {
-    title: 'Contact Us From Here',
-    subtitle: 'Get Limited 1 week free try',
-    btn1: 'leaern more',
-    btn2: 'Request Demo'
+    title: 'Contact Us',
+    subtitle: 'Lorem Ipsum',
+    btn1: 'learn more',
 }
 
 
 export const footerItems = {
     productds: [
         {
-            name: 'Drag And Drop', link: '#',
+            name: 'Lorem ipsum.', link: '#',
         },
         {
-            name: 'Visual Studio X', link: '#',
+            name: ' dolor sit amet,', link: '#',
         },
         {
-            name: 'Easy Content', link: '#',
+            name: ' dolor sit amet,', link: '#',
         },
     ],
     company: [
         {
-            name: 'Diversity & iusion', link: '#'
+            name: 'dolor sit amet,', link: '#'
         },
         {
             name: 'About us', link: '#'
